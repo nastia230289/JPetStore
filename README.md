@@ -1,5 +1,5 @@
 Testing site https://petstore.octoperf.com/actions/Account.action
-Method of testing ADHOC
+Method of testing ADHOC.
 Test-suite:
 1. Test-case Sing in
 2. Test-case User registration
