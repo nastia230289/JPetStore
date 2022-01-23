@@ -10,3 +10,7 @@ Test-suite covers the following functions:
 4. Checkout
 
 **Testing Environment:** Microsoft Windows 10 Pro, Google Chrome 96.0.4664.45 (64 bit)
+
+UI tests can be found in _test-suite JPetStore.xlsx_
+
+Postman collection for JPetsore API is in _JPetStore.postman_collection.json_
