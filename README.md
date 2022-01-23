@@ -1,8 +1,12 @@
-Testing site https://petstore.octoperf.com/actions/Account.action
-Method of testing ADHOC.
-Test-suite:
-1. Test-case Sing in
-2. Test-case User registration
-3. Test-case Adding item to cart
-Each test contains Title, Preconditions, Steps, Results, Execution Status, Priority.
-Enviroment: Microsoft Windows 10 Pro, Google Chrome 96.0.4664.45 (64 bit)
+# Test suite for JPetStore
+
+This repo has test cases for https://petstore.octoperf.com/actions/Account.action. I used it as a prod environment. As far as this link has multiple issues (see the spreadsheet) I also run Petstore app locally from https://github.com/mybatis/jpetstore-6.
+
+Test-suite covers the following functions:
+
+1. Sing in
+2. User registration
+3. Adding item to cart
+4. Checkout
+
+**Testing Environment:** Microsoft Windows 10 Pro, Google Chrome 96.0.4664.45 (64 bit)
