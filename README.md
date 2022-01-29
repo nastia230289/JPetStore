@@ -25,3 +25,7 @@ Build war file
 
 $ cd jpetstore-6
 $ ./mvnw clean package -DskipTests
+
+Run application in browser http://localhost:8080/jpetstore/
+
+Press Ctrl-C to stop the server.
