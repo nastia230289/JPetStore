@@ -26,6 +26,10 @@ Build war file
 $ cd jpetstore-6
 $ ./mvnw clean package -DskipTests
 
+Startup the Tomcat server and deploy web application
+
+$ ./mvnw cargo:run -P tomcat90
+
 Run application in browser http://localhost:8080/jpetstore/
 
 Press Ctrl-C to stop the server.
