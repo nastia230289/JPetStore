@@ -14,3 +14,13 @@ Test-suite covers the following functions:
 UI tests can be found in _test-suite JPetStore.xlsx_
 
 Postman collection for JPetsore API is in _JPetStore.postman_collection.json_
+
+Running JPetStore sample under Tomcat (using the cargo-maven2-plugin).
+
+Clone this repository
+
+$ git clone https://github.com/mybatis/jpetstore-6.git
+Build war file
+
+$ cd jpetstore-6
+$ ./mvnw clean package -DskipTests
