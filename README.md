@@ -20,6 +20,7 @@ Running JPetStore sample under Tomcat (using the cargo-maven2-plugin).
 Clone this repository
 
 $ git clone https://github.com/mybatis/jpetstore-6.git
+
 Build war file
 
 $ cd jpetstore-6
